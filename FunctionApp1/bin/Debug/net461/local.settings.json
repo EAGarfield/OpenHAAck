@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+
+    // "Cosmosconnection": "AccountEndpoint=https://esradb.documents.azure.com:443/;AccountKey=5py0t3IZMpkqQACfUx68TIbJ6n2w7byLCNVJrht3cZFVyUat3Iclxi3ozw3x0LghtT3OpbrqHmpYt2l8tn2hzg==;",
+
+
+    "Cosmosconnection": "AccountEndpoint=https://erinntestcosmos.documents.azure.com:443/;AccountKey=jr4Vo3pDx91Lgs4CrdVqTf6MAawLHmx1tMeTBRX3Pohe6bpyeViAuZKiGS8Uk7NW2R2KxUoLwQmSsCRnr1fU9A==;",
+
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true"
+  }
+}
